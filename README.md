@@ -1,4 +1,4 @@
-## Hi there, I'm Sanderson Ricl! A React and NodeJs Developer. 
+## Hi there, I'm Sanderson Ricl! A Software Developer. 
 
 <div align="center">
   <a href="https://github.com/sanricl">
