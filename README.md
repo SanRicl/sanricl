@@ -1,4 +1,4 @@
-## Hi there, I'm Sanderson Ricl! A Software Developer. 
+## Hi there, I'm Sanderson Ricl! A Web Developer. 
 
 <div align="center">
   <a href="https://github.com/sanricl">
