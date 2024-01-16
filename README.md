@@ -9,6 +9,10 @@
 </a>
   <br />
 
+<div align="center">
+  
+ ![Snake animation](https://github.com/sanricl/sanricl/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
 
 ##
