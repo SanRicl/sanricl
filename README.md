@@ -6,7 +6,7 @@
 ## TOOLS
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,typescript,next,nodejs,express,docker,github,linux,styledcomponents,vite,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,typescript,next,nodejs,docker,github,linux,postgres" />
 </a>
   <br />
 </div>
